@@ -1,0 +1,23 @@
+commit ff886cb980f15174fb6402246d14cef58d763445
+Author: AnthonySebastianMayol <anthonysebastianmayol@gmail.com>
+Date:   Fri Nov 27 23:02:12 2020 -0300
+
+    agregando mi guitarra acustica
+
+commit d092a781a43c88c17b0469685cd9de37e35c58fd
+Author: AnthonySebastianMayol <anthonysebastianmayol@gmail.com>
+Date:   Fri Nov 27 23:01:05 2020 -0300
+
+    sumando nuevo hero
+
+commit 7504c0a333f30c4487f18fd8cf9b960107b3bb53
+Author: AnthonySebastianMayol <anthonysebastianmayol@gmail.com>
+Date:   Thu Nov 26 20:55:49 2020 -0300
+
+    agregando el header
+
+commit 41d258875e5c127f71d9f62faf4813b766de9081
+Author: AnthonySebastianMayol <anthonysebastianmayol@gmail.com>
+Date:   Thu Nov 26 20:44:46 2020 -0300
+
+    inicializando el landing page
