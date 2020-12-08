@@ -1,3 +1,4 @@
-# invie-github
-Tus mejores guitarras inviesibles \o/ (Proyecto del curso de Git y GitHub de Leonidas en Platzi)
-by @LeonidasEstebanquito!
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
